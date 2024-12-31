@@ -20,6 +20,22 @@
   <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dulananisayuru?mibextid=ZbWKwL" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-
 </p>
- 
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 👨🏽‍💻 I’m currently learning **AI/ML**
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 💬 Ask me about **React | Java**
+- 📫 Reach me **[LinkedIn](https://www.linkedin.com/in/dulana-nisayuru/)**
+- 📧 Email me **dulananisayuru2000@gmail.com**
+</td>
+<td width="50%" align="center">
+  <img align="center" width="350" alt="Coding" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" frameBorder="0" class="giphy-embed">
+</td>
+</tr>
+</table>
+
+---
